@@ -5,6 +5,10 @@ const styles = {
   flex: {
     flex: 1,
   },
+  full: {
+    width: '100%',
+    height: '100%',
+  },
   menuButton: {
     marginLeft: -12,
     marginRight: 20,

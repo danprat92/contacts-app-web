@@ -16,6 +16,11 @@ injectGlobal`
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
 
+  .form {
+    width:100%,
+    height:100%,
+  }
+
   #app {
     background-color: #fafafa;
     height: 100%;

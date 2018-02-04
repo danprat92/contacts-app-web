@@ -42,6 +42,7 @@ class SearchBar extends React.Component { // eslint-disable-line react/prefer-st
               </InputAdornment>
             }
           />
+          <label hidden htmlFor="search-field"></label>
         </Toolbar>
       </AppBar>
     );
