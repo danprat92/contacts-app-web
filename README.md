@@ -6,7 +6,7 @@ Simple react app that lists contacts. A production demo may be found [here](http
 DEVELOPMENT
 ============
 
-* Run the backend server published [here](https://github.com/danprat92/contacts-app-bknd) or use the production server published [here](https://thawing-shore-34071.herokuapp.com/)
+* Run the backend server published [here](https://github.com/danprat92/contacts-app-rest) or use the production server published [here](https://contacts-app-backend.herokuapp.com/)
 * Download this repo
 * Run ```npm install``` for dependencies
 * Run ```npm start``` to start the server
