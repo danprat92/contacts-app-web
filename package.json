@@ -250,7 +250,8 @@
     "whatwg-fetch": "2.0.3",
     "webpack": "3.5.5",
     "html-webpack-plugin": "2.29.0",
-    "image-webpack-loader": "2.0.0"
+    "image-webpack-loader": "2.0.0",
+    "offline-plugin": "4.8.1"
   },
   "devDependencies": {
     "add-asset-html-webpack-plugin": "2.0.1",
