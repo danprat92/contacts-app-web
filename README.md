@@ -1,7 +1,7 @@
 Overview
 ============
 
-Simple react app that lists contacts. A production demo may be found [here](http://contact-app.danielprato.com.ve)
+Simple react app that lists contacts. A production demo may be found [here](https://contacts-app-web.herokuapp.com/)
 
 DEVELOPMENT
 ============
