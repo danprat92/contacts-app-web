@@ -248,7 +248,9 @@
     "styled-components": "2.0.0",
     "warning": "3.0.0",
     "whatwg-fetch": "2.0.3",
-    "webpack": "3.5.5"
+    "webpack": "3.5.5",
+    "html-webpack-plugin": "2.29.0",
+    "image-webpack-loader": "2.0.0"
   },
   "devDependencies": {
     "add-asset-html-webpack-plugin": "2.0.1",
